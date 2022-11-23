@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Semen Mishchenko, a Frontend Developer.</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
+
+<h2 align="centet"> My stack </h2>
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="32"/>
+
+
 
 <!--
 **symon261731/symon261731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
