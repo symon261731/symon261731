@@ -7,7 +7,7 @@
  <a target='_blank' href='https://t.me/Mishchenko_Simon'><img src='https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white' /> </a>
  <a target='_blank' href='https://vk.com/id235103939'><img src='https://img.shields.io/badge/VK-blue?logo=Vk&logoColor=white' /> </a>
 </div>
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Semen Mishchenko, a Frontend Developer.</a> </h1>
+<h1 align="center">Hi there, I'm <a href="#" target="_blank">Semen Mishchenko, a Frontend Developer.</a> </h1>
 
 
 
