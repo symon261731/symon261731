@@ -40,13 +40,13 @@
 <table width='100%'>
   <tr>
     <td align="center" width="96">
-      <a href="#debabin-stack" >
+      <a href="#stack" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
       </a>
       <br>Figma
     </td>
     <td align="center" width="96">
-      <a href="#debabin-stack" >
+      <a href="#stack" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       </a>
       <br>Git
@@ -58,13 +58,13 @@
       <br>Npm
     </td>
      <td align="center" width="96"> 
-      <a href="#debabin-stack" >
+      <a href="#stack" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="48" height="48" alt="github" />
       </a>
       <br>Github
     </td>
     <td align="center" width="96"> 
-      <a href="#debabin-stack" >
+      <a href="#stack" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="48" height="48" alt="docker" />
       </a>
       <br>Docker
@@ -150,25 +150,25 @@
 <table width='100%'>
   <tr>
      <td align="center" width="96">
-      <a href="#debabin-stack">
+      <a href="#stack">
         <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="48" height="48" alt="Eslint" />
       </a>
       <br>Eslint
     </td>
     <td align="center" width="96">
-      <a href="#debabin-stack">
+      <a href="#stack">
         <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="48" height="48" alt="Prettier" />
       </a>
       <br>Prettier
     </td>
     <td align="center" width="96"> 
-      <a href="#debabin-stack" >
+      <a href="#stack" >
         <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" width="48" height="48" alt="Jest" />
       </a>
       <br>Jest
     </td>
     <td align="center" width="96"> 
-      <a href="#debabin-stack" >
+      <a href="#stack" >
         <img src="https://brandeps.com/icon-download/S/Storybook-icon-vector-02.svg" width="48" height="48" alt="Storybook" />
       </a>
       <br>Storybook
@@ -180,19 +180,19 @@
  <table width='100%'>
   <tr>
     <td align="center" width="96"> 
-      <a href="#debabin-stack" >
+      <a href="#stack" >
         <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="48" height="48" alt="Node JS" />
       </a>
       <br>Node JS
     </td>
     <td align="center" width="96">
-      <a href="#debabin-stack" >
+      <a href="#stack" >
         <img src="https://sequelize.org/img/logo.svg" width="48" height="48" alt="GraphQL" />
       </a>
       <br>Sequelize
     </td>
     <td align="center" width="96">
-      <a href="#debabin-stack" >
+      <a href="#stack" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1920px-Postgresql_elephant.svg.png" width="48" height="48" alt="Postgres" />
       </a>
       <br>Postgres
