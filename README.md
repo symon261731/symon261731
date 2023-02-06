@@ -1,9 +1,20 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Semen Mishchenko, a Frontend Developer.</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
+<div align="center">
+ <img src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format" height="150" width='200'/>
+</div>
+
+<div align='center'>
+ <a href='#'><img src='https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white' /> </a>
+ <a href='#'><img src='https://img.shields.io/badge/VK-blue?logo=Vk&logoColor=white' /> </a>
+</div>
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Semen Mishchenko, a Frontend Developer.</a> </h1>
+
+
 
 <div align="center">
 <img align="center" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" />
 </div>
+
 
 <!-- ---
  👨‍💻 About me:
@@ -23,28 +34,171 @@
 
 <div> 
 <h2> :hammer_and_wrench: Languages and Tools : </h2>
-<br>
-<p align="center"> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a> 
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> 
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/></a>
-<a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://sequelize.org/img/logo.svg" alt="postgresql" width="50" height="50"/></a>
+
+>  General
  
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a> 
-<a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="50" height="50"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> 
-</p>
-</div>  
-  
-  
-  
+<table width='100%'>
+  <tr>
+    <td align="center" width="96">
+      <a href="#debabin-stack" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
+      </a>
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <a href="#debabin-stack" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96"> 
+      <a href="#debabin-stack" >
+        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="48" height="48" alt="npm" />
+      </a>
+      <br>Npm
+    </td>
+     <td align="center" width="96"> 
+      <a href="#debabin-stack" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="48" height="48" alt="github" />
+      </a>
+      <br>Github
+    </td>
+    <td align="center" width="96"> 
+      <a href="#debabin-stack" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="48" height="48" alt="docker" />
+      </a>
+      <br>Docker
+    </td>
+  </tr> 
+</table> 
+ 
+> Frontend
+<table width='100%'>
+  <tr>
+    <td align="center" width="96">
+      <a href="#stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JS
+    </td>
+   <td align="center" width="96">
+      <a href="#stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TS
+    </td>
+    <td align="center" width="96">
+      <a href="#stack">
+        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
+      </a>
+      <br>React JS
+    </td>
+      <td align="center" width="96"> 
+      <a href="#stack" >
+        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
+      </a>
+      <br>Redux
+    </td>
+     <td align="center" width="96">
+      <a href="#stack">
+        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
+      </a>
+      <br>MUI
+    </td>
+   <td align="center" width="96">
+      <a href="#stack">
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+     <td align="center" width="96"> 
+      <a href="#stack" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48" height="48" alt="css3" />
+      </a>
+      <br>Css3
+    </td>
+  </tr> 
+    <tr>
+    <td align="center" width="96">
+      <a href="#stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="Html5" />
+      </a>
+      <br>Html5
+    </td>
+    <td align="center" width="96"> 
+      <a href="#stack" >
+        <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="48" height="48" alt="Webpack" />
+      </a>
+      <br>Webpack
+    </td>
+    <td align="center" width="96">
+      <a href="#stack">
+        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="48" height="48" alt="Sass" />
+      </a>
+      <br>Sass
+    </td>
+   <td align="center" width="96">
+      <a href="#stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
+      </a>
+      <br>Tailwind
+    </td>
+  </tr> 
+</table>
+ 
+>  Code quality
+<table width='100%'>
+  <tr>
+     <td align="center" width="96">
+      <a href="#debabin-stack">
+        <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="48" height="48" alt="Eslint" />
+      </a>
+      <br>Eslint
+    </td>
+    <td align="center" width="96">
+      <a href="#debabin-stack">
+        <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="48" height="48" alt="Prettier" />
+      </a>
+      <br>Prettier
+    </td>
+    <td align="center" width="96"> 
+      <a href="#debabin-stack" >
+        <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" width="48" height="48" alt="Jest" />
+      </a>
+      <br>Jest
+    </td>
+    <td align="center" width="96"> 
+      <a href="#debabin-stack" >
+        <img src="https://brandeps.com/icon-download/S/Storybook-icon-vector-02.svg" width="48" height="48" alt="Storybook" />
+      </a>
+      <br>Storybook
+    </td>
+  </tr> 
+</table> 
+ 
+> Backend
+ <table width='100%'>
+  <tr>
+    <td align="center" width="96"> 
+      <a href="#debabin-stack" >
+        <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="48" height="48" alt="Node JS" />
+      </a>
+      <br>Node JS
+    </td>
+    <td align="center" width="96">
+      <a href="#debabin-stack" >
+        <img src="https://sequelize.org/img/logo.svg" width="48" height="48" alt="GraphQL" />
+      </a>
+      <br>Sequelize
+    </td>
+    <td align="center" width="96">
+      <a href="#debabin-stack" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1920px-Postgresql_elephant.svg.png" width="48" height="48" alt="Postgres" />
+      </a>
+      <br>Postgres
+    </td>
+  </tr> 
+</table>
   
   
   
