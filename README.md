@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <div align="center">
-<img align="center" src="https://user-images.githubusercontent.com/105886632/201539751-5771500b-bd8e-4ce1-b124-2d0cb6519730.gif" />
+<img align="center" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" />
 </div>
  
 <h3 align="center">
