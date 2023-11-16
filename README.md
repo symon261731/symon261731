@@ -14,24 +14,6 @@
 <div align="center">
 <img align="center" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" />
 </div>
-
-
-<!-- ---
- 👨‍💻 About me:
- 
- 
- 
----  -->
-
----
-
-### :fire: My Stats :
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=symon261731&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=symon261731&show_icons=true&theme=dark)
-
----
-
 <div> 
 <h2> :hammer_and_wrench: Languages and Tools : </h2>
 
