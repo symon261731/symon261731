@@ -119,12 +119,6 @@
       </a>
       <br>Sass
     </td>
-   <td align="center" width="96">
-      <a href="#stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
-      </a>
-      <br>Tailwind
-    </td>
     <td align="center" width="96">
       <a href="#">
        <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.svg" width="48" height="48" alt="React-hook-form" />
