@@ -75,12 +75,6 @@
       </a>
       <br>Redux
     </td>
-     <td align="center" width="96">
-      <a href="#stack">
-        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
-      </a>
-      <br>MUI
-    </td>
    <td align="center" width="96">
       <a href="#stack">
         <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
