@@ -39,12 +39,6 @@
       </a>
       <br>Npm
     </td>
-     <td align="center" width="96"> 
-      <a href="#stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="48" height="48" alt="github" />
-      </a>
-      <br>Github
-    </td>
     <td align="center" width="96"> 
       <a href="#stack" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="48" height="48" alt="docker" />
